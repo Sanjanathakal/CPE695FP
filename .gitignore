@@ -1,0 +1,7 @@
+archive
+ALL
+*.png
+AudioWAV
+.DS_Store
+*.DS_Store
+TESS Toronto emotional speech set data/*
